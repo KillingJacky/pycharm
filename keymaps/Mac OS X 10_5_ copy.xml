@@ -18,6 +18,10 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -29,5 +33,8 @@
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="QuickList.MyQuickList">
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
 </keymap>
