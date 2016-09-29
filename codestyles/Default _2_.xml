@@ -1,5 +1,8 @@
 <code_scheme name="Default (2)">
   <option name="RIGHT_MARGIN" value="140" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Python>
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
